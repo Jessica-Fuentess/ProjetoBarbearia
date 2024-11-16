@@ -57,6 +57,15 @@
 
     #objetivo {
         font-size: 0.9em;
+        width: 80%;
+    }
+
+    #espaco2{
+        width: 80%;
+    }
+
+    #fotos{
+        width: 80%;
     }
 
     #valores{
