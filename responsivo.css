@@ -60,8 +60,10 @@
     }
 
     #valores{
-        width: 100%;
-        font-size: 0.9em;
+        width:100%;
+    }
+    #valores li{
+        font-size: 1em;
     }
 
     #localizacao {
