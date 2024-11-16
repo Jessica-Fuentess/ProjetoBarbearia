@@ -117,7 +117,7 @@ main p{
     width: 70%;
     margin: auto;
     text-align: justify;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 #objetivo h1{
@@ -214,17 +214,18 @@ main p{
 #valores h1{
     padding-bottom: 60px;
     grid-column: 1 / -1;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 #valores h2{
     padding-bottom: 18px;
-    Font-size: 19px;
+    Font-size: 20px;
 }
 
 #valores li{
     list-style-type: none;
     line-height: 30px;
+    font-size: 19px;
 }
 
 #fotos{
